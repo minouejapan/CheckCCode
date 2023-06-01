@@ -8,5 +8,5 @@ Delphi用の文字コード自動判別テキストファイル読み込みと�
 CheckCCode.pasを参照してください。
 
 ### ライセンス
-Apache2.0
+MIT
 
